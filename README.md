@@ -15,5 +15,10 @@ Adding certain animations like the jump or flight animation.
 - Add sound effects:
 Adding sound effects such as the jumping sound.
 
-Note: Some of these items may never make it into the resource packet.
+Note: Some of these features may never make it into the resource packet.
 
+
+
+## Discord
+
+Join the [Discord](https://discord.com) to see the latest updates and changes.
