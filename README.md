@@ -6,3 +6,14 @@ Mario can move freely in the Minecraft world and interact with it. However, he c
 
 ## To-do List
 
+This is by far not the last version, because I still want to add things like:
+
+- Multiplayer support:
+Play with your friends as characters like Luigi, Peach, Yoshi and more!
+- Better animations:
+Adding certain animations like the jump or flight animation.
+- Add sound effects:
+Adding sound effects such as the jumping sound.
+
+Note: Some of these items may never make it into the resource packet.
+
