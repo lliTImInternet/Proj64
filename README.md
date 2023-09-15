@@ -26,4 +26,4 @@ If you want to build this project, you should use [7-Zip](https://www.7-zip.org/
 
 ## Discord
 
-Join the [Discord](https://discord.com) to see the latest updates and changes.
+Join the [Discord](https://discord.gg/bZNJtDXK5V) to see the latest updates and changes.
