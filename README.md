@@ -20,8 +20,8 @@ Note: Some of these features may never make it into the resource packet.
 ## Building
 If you want to build this project, you should use [7-Zip](https://www.7-zip.org/)
 
-Make the folder into a zip file
-Rename the .zip to .mcpack and import it into the game
+- Make the folder into a zip file
+- Rename the .zip to .mcpack and import it into the game
 
 
 ## Discord
