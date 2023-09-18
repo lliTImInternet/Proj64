@@ -38,8 +38,3 @@ If you want to build this project, you should use [7-Zip](https://www.7-zip.org/
 
 - Make the folder into a zip file
 - Rename the .zip to .mcpack and import it into the game
-
-
-## Discord
-
-Join the [Discord](https://discord.gg/bZNJtDXK5V) to see the latest updates and changes.
