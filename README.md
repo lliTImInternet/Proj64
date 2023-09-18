@@ -30,5 +30,5 @@ Join the [Discord](https://discord.gg/bZNJtDXK5V) to see the latest updates and 
 
 ## Informatiom
 
-![](https://img.shields.io/github/downloads/llTImInternet/Proj64/total?color=blue)
-![](https://img.shields.io/github/v/release/llTImInternet/Proj64?color=cyan)
+![](https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue)
+![](https://img.shields.io/github/v/release/lliTImInternet/Proj64?color=cyan)
