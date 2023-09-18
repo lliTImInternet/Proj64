@@ -10,7 +10,7 @@
     <a href="https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue"></a>
   </p>
   <p>
-    <h1>Ventile Client<\h1>
+    <h1>Project64<h1>
   </p>
 </div>
 <br>
