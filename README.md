@@ -9,6 +9,9 @@
     <a href="https://img.shields.io/github/v/release/lliTImInternet/Proj64?color=cyan"></a>
     <a href="https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue"></a>
   </p>
+  <p>
+    <h1>Ventile Client<\h1>
+  </p>
 </div>
 <br>
 
