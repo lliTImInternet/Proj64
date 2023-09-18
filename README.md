@@ -9,9 +9,6 @@
     <a href="https://img.shields.io/github/v/release/lliTImInternet/Proj64?color=cyan"></a>
     <a href="https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue"></a>
   </p>
-  <p>
-    <b>Project64<b> Project64 is a Minecraft Bedrock Edition resource pack, thats adds Mario from [Super Mario 64](https://wikipedia..org/wiki/Super_Mario_64) to Minecraft Besrock Edition.<br>
-  </p>
 </div>
 <br>
 
