@@ -15,7 +15,7 @@ Adding certain animations like the jump or flight animation.
 - Add sound effects:
 Adding sound effects such as the jumping sound.
 
-Note: Some of these features may never make it into the resource packet.
+> Note: Some of these features may never make it into the resource packet.
 
 ## Building
 If you want to build this project, you should use [7-Zip](https://www.7-zip.org/)
@@ -27,3 +27,8 @@ If you want to build this project, you should use [7-Zip](https://www.7-zip.org/
 ## Discord
 
 Join the [Discord](https://discord.gg/bZNJtDXK5V) to see the latest updates and changes.
+
+## Informatiom
+
+![](https://img.shields.io/github/downloads/llTImInternet/Proj64/total?color=blue)
+![](https://img.shields.io/github/v/release/llTImInternet/Proj64?color=cyan)
