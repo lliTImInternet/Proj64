@@ -1,3 +1,21 @@
+<br>
+<div align="center">
+  <p>
+    <a href="https://discord.gg/bZNJtDXK5V"><img src="https://github.com/Ventile-Client/OtherSource/blob/main/Assets/Images/Banner.png?raw=true" width="600" alt="Ventile Banner" /></a>
+  </p>
+  <br/>
+  <p>
+    <a href="https://discord.gg/bZNJtDXK5V"><img src="https://img.shields.io/discord/890387370103414814?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
+    <a href="https://img.shields.io/github/v/release/lliTImInternet/Proj64?color=cyan"></a>
+    <a href="https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue"></a>
+  </p>
+  <p>
+    <b>Project64<b> Project64 is a Minecraft Bedrock Edition resource pack, thats adds Mario from [Super Mario 64](https://wikipedia..org/wiki/Super_Mario_64) to Minecraft Besrock Edition.<br>
+  </p>
+</div>
+<br>
+
+
 # Proj64
 
 Project64 is a Minecraft Bedrock Edition resource pack, thats adds Mario from [Super Mario 64](https://de.wikipedia.org/wiki/Super_Mario_64) to Minecraft Besrock Edition.
@@ -27,8 +45,3 @@ If you want to build this project, you should use [7-Zip](https://www.7-zip.org/
 ## Discord
 
 Join the [Discord](https://discord.gg/bZNJtDXK5V) to see the latest updates and changes.
-
-## Informatiom
-
-![](https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue)
-![](https://img.shields.io/github/v/release/lliTImInternet/Proj64?color=cyan)
