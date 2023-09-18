@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <p>
-    <a href="https://discord.gg/bZNJtDXK5V"><img src="https://github.com/Ventile-Client/OtherSource/blob/main/Assets/Images/Banner.png?raw=true" width="600" alt="Ventile Banner" /></a>
+    <a href="https://discord.gg/bZNJtDXK5V"><img src="https://github.com/lliTImInternet/Proj64/blob/main/proj64-logo.png?raw=true" width="600" alt="proj64-logo" /></a>
   </p>
   <br/>
   <p>
