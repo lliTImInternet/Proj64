@@ -5,7 +5,7 @@
   </p>
   <br/>
   <p>
-    <a href="https://discord.gg/bZNJtDXK5V"><img src="https://img.shields.io/discord/890387370103414814?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
+    <a href="https://discord.gg/bZNJtDXK5V"><img src="https://img.shields.io/discord/1146151240829509752?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
     <a href="https://img.shields.io/github/v/release/lliTImInternet/Proj64?color=cyan"></a>
     <a href="https://img.shields.io/github/downloads/lliTImInternet/Proj64/total?color=blue"></a>
   </p>
